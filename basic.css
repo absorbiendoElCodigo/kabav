@@ -1,0 +1,54 @@
+body{
+    margin:0;
+}
+#background{
+    position:absolute;
+    height:100%;
+    width:100%;
+    background: linear-gradient(#4e845c, #4b4c77, #774b4b);
+}
+#table1{
+    width:100%;
+    height:80%;
+}
+#windows{
+    position:relative;
+    top:5%;
+    left:5%;
+    width:90%;
+    height:90%;
+    background: rgba(101, 37, 37, 0.3);
+}
+#table2{
+    width:100%;
+    height:20%;
+    background: rgba(101, 37, 37, 0.3);
+    color: white;
+    font-size: 250%;
+    text-align:center;
+}
+#opt1{
+    width:20%;
+    height:100%;
+    float:left;
+}
+#opt2{
+    width:20%;
+    height:100%;
+    float:left;
+}
+#opt3{
+    width:20%;
+    height:100%;
+    float:left;
+}
+#opt4{
+    width:20%;
+    height:100%;
+    float:left;
+}
+#opt5{
+    width:20%;
+    height:100%;
+    float:left;
+}
